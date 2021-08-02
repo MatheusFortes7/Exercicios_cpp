@@ -1,0 +1,2 @@
+O arquivo foi aberto! ai o!
+teste de escrita em arquivo
